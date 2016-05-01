@@ -1,0 +1,14 @@
+{
+  "name": "chaos-dimension",
+  "version": "0.0.1",
+  "description": "creates a portal to a chaos dimension",
+  "main": "chaos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "corlex",
+  "license": "MIT",
+  "dependencies": {
+    "interval-tree2": "git+https://github.com/abjose/interval-tree2.git"
+  }
+}
